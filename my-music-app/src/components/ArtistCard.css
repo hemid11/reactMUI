@@ -1,0 +1,23 @@
+
+.artist-card {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  
+  .artist-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .artist-card-content {
+    padding: 16px;
+  }
+  
+  .artist-card-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  

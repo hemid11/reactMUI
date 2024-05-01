@@ -1,0 +1,27 @@
+{
+    "artists": [
+      {
+        "id": 1,
+        "name": "Eminem",
+        "imgSrc": "https://media.npr.org/assets/music/news/2010/06/eminem_wide-5b8530e7c1ae24e07afa9c9c5b49b50d46a43364.jpg?s=1400&c=100&f=jpeg",
+        "genre": "Pop",
+        "country": "USA",
+        "age": 52,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "isVerified": true,
+        "songs": []
+      },
+      {
+        "id": 2,
+        "name": "Michael Jackson",
+        "imgSrc": "https://hips.hearstapps.com/hmg-prod/images/michael-jackson-performs-in-concert-circa-1986-news-photo-1690832280.jpg?crop=0.694xw:1.00xh;0.117xw,0&resize=1200:*",
+        "genre": "Rock",
+        "country": "USA",
+        "age": 51,
+        "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "isVerified": true,
+        "songs": []
+      }
+    ]
+  }
+  
